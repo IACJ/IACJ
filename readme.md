@@ -6,6 +6,6 @@
 
 # IACJ - 贾中昊
 
-* PPT - 关于时间序列的ppt
-* certificate - “你说什么？ 这是我应得的！”
-* 杂项 - 嗯，是的。
+* PPT - 我自己做的ppt我最清楚，要不要讲给你听啊~
+* certificate - 你说什么？ 这是我应得的！
+* xminds - 容我三思.
