@@ -6,8 +6,9 @@
 
 # IACJ - 贾中昊
 
-* PPT - 我自己做的ppt我最清楚，要不要讲给你听啊~
-* certificate - 你说什么？ 这是我应得的！
-* xminds - 容我三思.
-* 实验 - 完成的编程实验记录
-* paper - 打算看的论文
+* PPT - 自己做过的ppt。
+* certificate - 证书收集。
+* xminds - 思维导图。
+* 实验 - 实验记录。
+* paper - 阅读论文。
+* review - 知识复习。
